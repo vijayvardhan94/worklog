@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2018-10-24 17:21:01
+  exercise: MyString
+  steps: 1.5
+  calories: 1.5
+  activeminutes: 1.5
+  weight: 1.5
+
+two:
+  date: 2018-10-24 17:21:01
+  exercise: MyString
+  steps: 1.5
+  calories: 1.5
+  activeminutes: 1.5
+  weight: 1.5
